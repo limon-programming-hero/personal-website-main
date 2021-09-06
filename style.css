@@ -83,3 +83,67 @@ h4{
 .one_third_width img{
     width: 100%;
 }
+#middle{
+    text-align: center;
+}
+.work_experience_section{
+    background-image: linear-gradient(60deg, white, rgba(235, 225, 225, 0.644));
+    display: flex;
+    height: 400px;
+    padding: 30px;
+}
+.work_div{
+    display: inline-block;
+    width: 30%;
+    padding: 10px;
+    margin: 2%;
+    box-shadow: 0px 2px 15px rgba(0, 255, 255, 0.582);
+}
+.work_div img{
+    padding: 20px;
+    height: 20%;
+}
+
+.last_section{
+    height: 580px;
+}
+.last_half{
+    height: 40%;
+    align-items: center;
+}
+.background{
+    height: 40%;
+    display: flex;
+    margin-top: 5%;
+    margin-left: 5%;
+    background-image: url(sources/shapes/Group_33094_1.png);
+    background-repeat: no-repeat;
+    background-size:60%;
+    background-position: center;
+}
+.background p{
+    margin-right:0px 30% 0px 40%;
+    padding:0px 25% 0px 27%;
+    color: white;
+    font-weight: 700;
+    font-size: 35px;
+    font-family: Bebas Neue;
+    align-items: center;
+}
+.footer_portion p{
+    text-align: center;
+    margin-top: 5%;
+}
+.footer_portion h4{
+    text-align: center;
+    font-family:Roboto;;
+}
+.footer_img_div{
+    display: flex;
+    margin-left: 45%;
+}
+.footer_img_div img{
+    width: 4%;
+    margin-right: 3%;
+}
+
